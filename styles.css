@@ -43,8 +43,5 @@ html, body, .container-fluid {
 }
 
 .navbar.navbar-light .navbar-nav .nav-item :hover {
-    background-color: azure;
     font-weight: bold;
-    font-size: 22px;
-    color: rgba(153, 26, 26, 0.801);
 }
