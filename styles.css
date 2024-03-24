@@ -1,4 +1,4 @@
-html, body, .container-fluid {
+html, body {
     background-color: rgba(153, 26, 26, 0.801);
     margin: 0;
     padding: 0;
@@ -9,7 +9,7 @@ html, body, .container-fluid {
 }
 
 .navbar.navbar-light {
-    background-color: rgba(153, 26, 26, 0.801);
+    background-color: transparent;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 20px;
 }
