@@ -188,3 +188,14 @@ h1 {
     color: rgba(153, 26, 26, 0.829);
     background-color: azure;
 }
+
+.card {
+    background-color: azure;
+    color: rgba(153, 26, 26, 0.829);
+    border: 4px solid rgba(94, 17, 17, 0.829);
+    align-items: center;
+}
+
+.card .card-img-top {
+    border-bottom: 4px solid rgba(94, 17, 17, 0.829);
+}
