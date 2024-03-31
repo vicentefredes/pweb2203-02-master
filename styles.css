@@ -28,7 +28,7 @@ body {
 }
 
 .navbar-light .navbar-toggler-icon {
-    background-image: url(toggleIcon.png);
+    background-image: url(img-generico/toggleIcon.png);
 }
 
 .navbar.navbar-light .navbar-nav {
@@ -150,10 +150,15 @@ h1 {
 
 .animal h3 {
     text-align: center;
+    text-decoration: underline;
 }
 
 .animal .row {
     align-items: center;
+}
+
+.animal .ficha {
+    margin-top: 15px;
 }
 
 .animal .ficha ul {
@@ -184,6 +189,7 @@ h1 {
     color: rgba(153, 26, 26, 0.829);
     border: 4px solid rgba(94, 17, 17, 0.829);
     align-items: center;
+    margin-bottom: 10px;
 }
 
 .card .card-img-top {
