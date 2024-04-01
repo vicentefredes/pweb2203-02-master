@@ -180,6 +180,10 @@ h1 {
     margin-top: 15px;
 }
 
+.ficha .row {
+    justify-content: space-around;
+}
+
 .animal .ficha ul {
     line-height: 1.5;
     list-style-type: none;
