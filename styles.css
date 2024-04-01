@@ -33,14 +33,6 @@ body {
     width: 15%;
 }
 
-.carousel-control-prev {
-    left: -5%;
-}
-
-.carousel-control-next {
-    right: -5%;
-}
-
 .carousel-control-prev-icon {
     background-image: url(img-generico/prev.png);
     height: 50px;
