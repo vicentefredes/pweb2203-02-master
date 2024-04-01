@@ -37,12 +37,14 @@ body {
     background-image: url(img-generico/prev.png);
     height: 50px;
     width: 50px;
+    margin-left: -60%;
 }
 
 .carousel-control-next-icon {
     background-image: url(img-generico/next.png);
     height: 50px;
     width: 50px;
+    margin-right: -60%;
 }
 
 .navbar {
